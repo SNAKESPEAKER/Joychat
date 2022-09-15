@@ -1,0 +1,21 @@
+.body-background
+{
+background-color: aquamarine;
+text-align: center;
+}
+
+#img
+{
+height: 300px;
+width: 300px;    
+}
+
+#LogOut
+{
+    font-size: 20px; float: right;   
+}
+
+#label1
+{
+ text-align: center;   
+}
